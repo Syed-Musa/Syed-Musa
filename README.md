@@ -2,7 +2,6 @@
 
 ### Web Developer | [HTML, CSS, JavaScript, React JS, Node JS]
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/) [![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?label=Follow&style=social)](https://twitter.com/your-twitter-handle)
 
 ---
 
