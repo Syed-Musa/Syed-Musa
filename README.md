@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I’m Syed Mohd Musa  <br><br>🔭 I’m currently working on  <br>• Full-stack web applications using the MERN stack  <br>• Backend services and RESTful APIs using FastAPI and Express.js  <br>• Integrating machine learning models into web applications  <br><br>👯 I’m looking to collaborate on  <br>• Full-stack or backend development projects  <br>• Open-source projects related to web development or Python  <br>• Real-world problem-solving applications   <br><br>🌱 I’m currently learning  <br>• Advanced backend development with FastAPI  <br>• System design basics and API scalability  <br>• Cloud technologies and CI/CD workflows  <br><br>💬 Ask me about  <br>• Python, JavaScript, REST APIs  <br>• MERN stack development  <br>• FastAPI, Express.js, MongoDB, MySQL  <br>• Beginner-friendly ML integration  <br><br>⚡ Fun fact  <br>• I enjoy turning complex ideas into simple, working software 🚀<br>
 
 
